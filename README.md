@@ -23,7 +23,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Flutter Developer, Django Developer & Data Entry Specialist <img src="https://media.giphy.com/media/3oEduOg2WVGU1atrFe/giphy.gif" width="30"> from Indonesia.
+I am a Flutter Developer, Pythonistas & Data Entry Specialist <img src="https://media.giphy.com/media/3oEduOg2WVGU1atrFe/giphy.gif" width="30"> from Indonesia.
 
 ### :hammer_and_wrench: Programming Languages and Tools :
 <div>
