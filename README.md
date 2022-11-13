@@ -21,7 +21,11 @@
 </div>
 
 ---
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ricky-blip/count.svg" />
+</p>
+---
 ### :man_technologist: About Me :
 I am a Flutter Developer, Pythonistas & Data Entry Specialist <img src="https://media.giphy.com/media/3oEduOg2WVGU1atrFe/giphy.gif" width="30"> from Indonesia.
 
@@ -39,11 +43,3 @@ I am a Flutter Developer, Pythonistas & Data Entry Specialist <img src="https://
 </div>
 
 ---
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
-
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ricky-blip/count.svg" />
-</p>
