@@ -20,11 +20,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
----
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ricky-blip/count.svg" />
 </p>
+
 ---
 ### :man_technologist: About Me :
 I am a Flutter Developer, Pythonistas & Data Entry Specialist <img src="https://media.giphy.com/media/3oEduOg2WVGU1atrFe/giphy.gif" width="30"> from Indonesia.
