@@ -3,9 +3,9 @@
 </div> -->
 <h1 align="left">
   Hi World, I'm Ricky Rinaldy
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="7px"/>
 </h1>
-
+I'm a software developer based in Indonesia, currently operating in UTC+7.
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/rickyrinaldy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,12 +19,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
 
----
+<!-- --- -->
 <!-- ### :man_technologist: About Me :
 I am a Software Developer <img src="https://media.giphy.com/media/3oEduOg2WVGU1atrFe/giphy.gif" width="30"> from Indonesia. -->
 <!-- ### :man_technologist: About Me : -->
-I'm a software developer based in Indonesia, currently operating in UTC+7.
-
 ### :hammer_and_wrench: Programming Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart" alt="dart" width="40" height="40"/>&nbsp;
@@ -37,7 +35,6 @@ I'm a software developer based in Indonesia, currently operating in UTC+7.
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="dotnet" alt="dotnet" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
 </div>
-
 <!-- --- -->
 <p align="center"> 
   Visitor count<br>
