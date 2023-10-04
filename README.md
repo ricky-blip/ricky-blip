@@ -36,6 +36,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/3oEduOg2WVGU1a
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
 </div>
 <!-- --- -->
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ricky-blip/count.svg" />
