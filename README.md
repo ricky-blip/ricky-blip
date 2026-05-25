@@ -67,9 +67,7 @@ whoami:
 
 <div align="center">
 
-![Total Contributions](https://img.shields.io/badge/Total%20Contributions-<!--CONTRIBUTIONS-->-4A9EFF?style=for-the-badge&logo=github&logoColor=white)
-
-*Updated daily via GitHub Actions*
+![ricky-blip](https://github-readme-stats.vercel.app/api?username=ricky-blip&count_private=true&show_icons=true&hide=stars,prs,issues&hide_border=true&bg_color=0D1117&title_color=4A9EFF&text_color=C9D1D9&icon_color=4A9EFF&custom_title=GitHub+Stats&rank_icon=github)
 
 </div>
 
