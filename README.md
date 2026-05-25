@@ -67,7 +67,7 @@ whoami:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricky-blip&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars,issues,prs&count_private=true&hide_border=true&bg_color=0D1117&title_color=4A9EFF&text_color=C9D1D9&icon_color=4A9EFF&show_icons=true&custom_title=Ricky%27s+GitHub+Stats)
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ricky-blip&bg_color=0D1117&color=4A9EFF&line=4A9EFF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution+Graph)](https://github.com/ricky-blip)
 
 </div>
 
