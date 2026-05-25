@@ -63,11 +63,9 @@ whoami:
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-![ricky-blip](https://github-readme-stats.vercel.app/api?username=ricky-blip&count_private=true&show_icons=true&hide=stars,prs,issues&hide_border=true&bg_color=0D1117&title_color=4A9EFF&text_color=C9D1D9&icon_color=4A9EFF&custom_title=GitHub+Stats&rank_icon=github)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ricky-blip&theme=dark&hide_border=true&background=0D1117&stroke=4A9EFF&ring=4A9EFF&fire=4A9EFF&currStreakLabel=4A9EFF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://github.com/ricky-blip)
 
 </div>
 
