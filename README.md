@@ -57,7 +57,7 @@ whoami:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-%23FF6B35.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTVMMTIgMnpNMiAxN2wxMCA1IDEwLTVNMiAxMmwxMCA1IDEwLTUiLz48L3N2Zz4=&logoColor=white)](https://github.com/ricky-blip)
+![Antigravity](https://img.shields.io/badge/Antigravity-%23FF6B35.svg?style=for-the-badge&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-%230078D4.svg?style=for-the-badge&logo=windows11&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
@@ -67,7 +67,7 @@ whoami:
 
 <div align="center">
 
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=ricky-blip&show_icons=false&hide=stars,issues,prs&count_private=true&hide_border=true&bg_color=0D1117&title_color=4A9EFF&text_color=C9D1D9&custom_title=Total+Contributions)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricky-blip&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars,issues,prs&count_private=true&hide_border=true&bg_color=0D1117&title_color=4A9EFF&text_color=C9D1D9&icon_color=4A9EFF&show_icons=true&custom_title=Ricky%27s+GitHub+Stats)
 
 </div>
 
