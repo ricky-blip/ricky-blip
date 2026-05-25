@@ -67,7 +67,9 @@ whoami:
 
 <div align="center">
 
-[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ricky-blip&bg_color=0D1117&color=4A9EFF&line=4A9EFF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution+Graph)](https://github.com/ricky-blip)
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions-<!--CONTRIBUTIONS-->-4A9EFF?style=for-the-badge&logo=github&logoColor=white)
+
+*Updated daily via GitHub Actions*
 
 </div>
 
