@@ -65,7 +65,7 @@ whoami:
 
 <div align="center">
 
-![Total Contributions](https://streak-stats.demolab.com?user=ricky-blip&hide_border=true&background=0D1117&stroke=4A9EFF&ring=4A9EFF&fire=4A9EFF&currStreakLabel=4A9EFF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&hide=currentStreak,longestStreak&mode=weekly)
+![Total Contributions](https://streak-stats.demolab.com?user=ricky-blip&hide_border=true&background=0D1117&stroke=4A9EFF&ring=4A9EFF&fire=4A9EFF&currStreakLabel=4A9EFF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&hide=currentStreak,longestStreak)
 
 </div>
 
